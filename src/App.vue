@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Goober",
+          "alias": "Alexei Drugov",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "Hel's Kiss"
         },
         {
           "callsign": "Zippo",
@@ -125,12 +125,12 @@ export default {
           "mech": "Powder and Wind"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Battlefly",
+          "alias": "Lance",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "Veiled Reaper"
         },
         {
           "callsign": "Compadre",
