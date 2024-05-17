@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+Ricardo lived in the outskirts of a suburb just on the edge to the countryside. He had a small workshop with a fair arrange of tools, enough to lift and repair anything from small motorbikes to tractors and cars. He had farmers call him out to help fix their old equipment and karens come in with their 5001U priuses. He later decided to join the pilot mechanic school to get some more income and make a name for himself. There he learned that he had the skills to be a pilot as well as a mechanic.
